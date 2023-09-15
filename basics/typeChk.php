@@ -1,7 +1,7 @@
 <?php
 $a = "Hi";
-$b = 52.20;
-$c = "1234yolo";
+$b = 52;
+$c = "1234";
 
 var_dump(is_array($a)); //false
 var_dump(is_bool($a)); //false
