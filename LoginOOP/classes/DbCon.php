@@ -2,7 +2,7 @@
 class DbCon
 {
     private $user = "root";
-    Private $pass = "123456";
+    Private $pass = "";
     public $dbCon;
     public function __construct(){
         $user = $this->user;
