@@ -24,6 +24,8 @@ echo "<b>Id :</b> $row[ID] <br/>";
 
 <?php
 }
+
+echo $url."?lang=true";
 mysqli_close($connection);
 ?>
 </body>
