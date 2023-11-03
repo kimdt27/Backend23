@@ -24,9 +24,6 @@ class Router{
 			$args = $uri;
 
 			require $file . '.php';
-
 		}
-
 	}
-
 }

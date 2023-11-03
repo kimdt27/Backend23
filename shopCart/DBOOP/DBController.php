@@ -1,8 +1,8 @@
 <?php
 class DBController {
 	private $host = "localhost";
-	private $user = "kim";
-	private $password = "123456";
+	private $user = "root";
+	private $password = "";
 	private $database = "duckshop";
 	private $conn;
 	
